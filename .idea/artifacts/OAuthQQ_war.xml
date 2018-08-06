@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OAuthQQ:war">
+    <output-path>$PROJECT_DIR$/OAuthQQ/target</output-path>
+    <root id="archive" name="OAuthQQ.war">
+      <element id="artifact" artifact-name="OAuthQQ:war exploded" />
+    </root>
+  </artifact>
+</component>
